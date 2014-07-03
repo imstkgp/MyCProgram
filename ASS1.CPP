@@ -11,11 +11,11 @@ private:
 public:
  void getdata()
  {
-  cout<<"\nEnter the name of the student:";
+  cout<<"\nEnter the name for the student:";
   cin>>name;
-  cout<<"\nEnter the roll no.:";
+  cout<<"\nEnter the student roll no.:";
   cin>>roll;
-  cout<<"\nEnter the class(BCA/MCA):";
+  cout<<"\nEnter the class:";
   cin>>clas;
   cout<<"\nEnter the semester:";
   cin>>sem;
